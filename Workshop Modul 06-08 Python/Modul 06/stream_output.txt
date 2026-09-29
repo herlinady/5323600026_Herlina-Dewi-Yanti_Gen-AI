@@ -1,0 +1,1 @@
+Embeddings are dense vector representations that map discrete data, such as words or images, into a continuous numerical space where semantic similarities are preserved as geometric distances.
